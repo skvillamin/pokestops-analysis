@@ -1,20 +1,6 @@
-This is your group repo for your final project for COGS108.
+Statistical Analysis on the Impacts of Pokéstop Locations on Restaurant Yelp Check-ins
+by: Yasushi Oh, Nancy Shen, Taggert Smith, Katelyn Villamin
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+The Pokémon franchise has long been a beloved staple in gaming, captivating audiences for decades. Its popularity soared to unprecedented heights in 2016 with the release of Pokémon Go, an augmented reality mobile game that garnered millions of players globally. By leveraging location-based services, the game introduced in-game features like “PokéStops” and “Gyms,” raising interesting questions about their potential influence on foot traffic around nearby local businesses.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
-
-This repository will be frozen on the final project due date. No further changes can be made after that time.
-
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
-
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+This study investigates whether the presence of PokéStops has significantly increased customer traffic to nearby restaurants, as measured by the frequency of Yelp check-ins. To explore this, the study analyzed trends in Yelp check-ins over time, comparing restaurants located near PokéStops to those farther away. Using heat maps and difference-in-difference analyses, the findings revealed a positive, albeit statistically insignificant, increase in restaurant check-ins near PokéStops. These results suggest that while there may be a relationship, a larger dataset may be required to uncover statistically significant effects and strengthen the analysis.
