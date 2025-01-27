@@ -1,5 +1,5 @@
-Statistical Analysis on the Impacts of Pokéstop Locations on Restaurant Yelp Check-ins
-by: Yasushi Oh, Nancy Shen, Taggert Smith, Katelyn Villamin
+# Statistical Analysis on the Impacts of Pokéstop Locations on Restaurant Yelp Check-ins
+## by: Yasushi Oh, Nancy Shen, Taggert Smith, Katelyn Villamin
 
 The Pokémon franchise has long been a beloved staple in gaming, captivating audiences for decades. Its popularity soared to unprecedented heights in 2016 with the release of Pokémon Go, an augmented reality mobile game that garnered millions of players globally. By leveraging location-based services, the game introduced in-game features like “PokéStops” and “Gyms,” raising interesting questions about their potential influence on foot traffic around nearby local businesses.
 
